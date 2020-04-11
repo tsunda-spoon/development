@@ -6,5 +6,7 @@
 ;
 
 ;make.ks はロード時にcallとして呼ばれるため、return必須です。
-[return]
 
+[cm]
+
+[return]
