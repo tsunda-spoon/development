@@ -13,3 +13,6 @@
 [chara_face name="michan" face="musu" storage="chara/A/musu.png"]
 [chara_face name="michan" face="naki" storage="chara/A/naki.png"]
 [chara_face name="michan" face="syobon" storage="chara/A/syobon.png"]
+
+; ポンコツ(ponkotsu)
+[chara_new name="ponkotsu" storage="chara/ponkotsu/normal.png" jname="ポンコツ"]
